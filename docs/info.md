@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Use the pins to add numbers
 
 ## How to test
 
-Explain how to use your project
+Connect to 7 segment display and 8 input buttons
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+8 input board and 7 segment display
